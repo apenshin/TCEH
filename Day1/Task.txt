@@ -19,6 +19,7 @@
 Что такое переменная: https://www.youtube.com/watch?v=js7aP3A_4Ts
 Система типов в python: https://www.youtube.com/watch?v=kHrt-8b3f2E
 Как научиться не пайтону, а программированию: https://www.youtube.com/watch?v=LODGssEJpNc
+
 Материалы для прочтения:
 Как хранятся числа в памяти: http://www.5byte.ru/11/0008.php
 Что такое Unicode: https://habrahabr.ru/post/135913/
