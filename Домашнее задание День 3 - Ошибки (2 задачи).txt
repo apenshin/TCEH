@@ -2,8 +2,9 @@
 https://gist.github.com/BorisRubin/14e827357044c48dafa75ef2a630eb5f
 
 Домашнее задание День 3 - Функции (3 задачи)
-https://gist.github.com/BorisRubin/14e827357044c48dafa75ef2a630eb5f
+https://gist.github.com/BorisRubin/5c6ed24fbd39ce78b37f72e7d20a56df
 
 Домашнее задание День 3 - Аргументы (3 задачи)
-https://gist.github.com/BorisRubin/14e827357044c48dafa75ef2a630eb5f
+https://gist.github.com/BorisRubin/78bbe473baa43175b463c50df5ce5fd5
+
 
