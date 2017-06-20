@@ -30,3 +30,5 @@ class ExtendedCalc(Calc):
 
 e = ExtendedCalc(8, k=1.2)
 print(e.count())
+
+print(ExtendedCalc.__mro__)
