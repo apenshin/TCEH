@@ -1,18 +1,16 @@
-# Hettinger example of MRO
+from contextlib import contextmanager
 
-class Adam(object): pass
-class Eve(object): pass
-class Ramon(Adam, Eve): pass
-class Gayle(Adam, Eve): pass
-class Raymond(Ramon, Gayle): pass
-class Dennis(Adam, Eve): pass
-class Sharon(Adam, Eve): pass
-class Rachel(Dennis, Sharon): pass
-class Matthew(Raymond, Rachel): pass
+@contextmanager
+def open_file(filename, filemode):
+    print('Opening file {}...'.format(filename))
+    f = open(filename, filemode)
+    yield f
+    print('Closing file {}...'.format(filename))
 
 
-print(Matthew.__mro__)
+with open_file('ATATATATA', 'w') as smth:
+    print(smth)
 
 
-# magic
 
+with
